@@ -1,5 +1,5 @@
-1) Armenia
-2) Belarus
+16) Morocco
+15) Latvia
 3) Canada
 13) Bulgaria
 16) Kenya
@@ -7,4 +7,4 @@
 7) Hungary
 14) Colombia
 9) Japan
-12) Albania
+17) Nigeria
