@@ -1,6 +1,7 @@
 1) Lebanon
 2) Madagascar
 11) X-Ray
+12) Wales
 4) Oman
 5) Pakistan
 6) Qatar
@@ -8,3 +9,4 @@
 8) Slovakia
 9) Turkey
 12) Yemen
+11) Venezuela
